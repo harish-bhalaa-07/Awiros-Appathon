@@ -1,0 +1,15 @@
+
+path: 'C:\Users\shasteeswaran\OneDrive\Desktop\projects\awiros\Dataset' # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/val  # val images (relative to 'path')
+
+# Classes
+names:
+  0 : 'car'
+  1 : 'bus'
+  2 : 'cycle'
+  3 : 'truck'
+  4 : 'bike'
+  5 : 'auto'
+  6 : 'rickshaw'
+  7 : 'ambulance'
